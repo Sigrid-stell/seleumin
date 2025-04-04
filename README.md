@@ -1,2 +1,3 @@
-# seleumin
-seleumin项目
+# seleumin 项目
+
+携程网站的自动化测试脚本与测试用例
